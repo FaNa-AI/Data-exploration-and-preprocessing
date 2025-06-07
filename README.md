@@ -1,6 +1,4 @@
-Sure! Here's a clear and concise README file in English for your House Price Prediction data cleaning script, suitable for GitHub:
 
----
 
 # House Price Data Cleaning Script
 
