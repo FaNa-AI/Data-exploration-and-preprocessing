@@ -1,8 +1,6 @@
 
 
-حتما! این هم یک نسخه‌ی شیک‌تر و حرفه‌ای‌تر برای README شما:
 
----
 
 # 🏠 House Price Data Cleaning Script
 
@@ -71,6 +69,3 @@ Clean and preprocess the house price dataset from an Excel file, preparing it fo
 * Ensures dataset integrity by removing invalid or missing data.
 * Prepares data perfectly for machine learning models or further analysis.
 
----
-
-اگر دوست دارید، می‌توانم به فارسی هم براتون ترجمه کنم!
